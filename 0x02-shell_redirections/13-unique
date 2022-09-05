@@ -1,2 +1,2 @@
 #!/bin/bash
-unsorted_list.txt|sort|uniq|lpr
+sort | uniq
