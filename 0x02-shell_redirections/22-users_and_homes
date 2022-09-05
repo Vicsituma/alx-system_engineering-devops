@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d":" -f9 /etc/passwid | sort
+cut -d":" -f6 /etc/passwid | sort
